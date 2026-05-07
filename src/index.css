@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+
+/* Dialogflow Messenger Theme */
+df-messenger {
+  /* Bot message background - Emerald */
+  --df-messenger-bot-message: #10b981;
+
+  /* User message background - Teal */
+  --df-messenger-user-message: #14b8a6;
+
+  /* Button / Titlebar - Zinc */
+  --df-messenger-button-titlebar-color: #71717a;
+
+  /* Send icon color */
+  --df-messenger-send-icon: #ffffff;
+
+  /* Font color inside chat */
+  --df-messenger-font-color: #f1f5f9;
+
+  /* Optional: accent / highlight color */
+  --df-messenger-accent-color: #06b6d4;
+
+  /* Optional: typing indicator color */
+  --df-messenger-typing-indicator: #d1fae5;
+}
+
